@@ -5,4 +5,4 @@ for i in range(2,100):
     for j in range(i,100,i):
         sieve[j]=False
 
-print(sieve)
+print( sieve )
